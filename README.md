@@ -2,8 +2,8 @@
 
 An intensive, 18-month self-directed study log and hands-on laboratory record covering Linux low-level internals, network protocol analysis, web security, active directory exploitation, and offensive/defensive operations.
 
-[![Curriculum Progress](https://img.shields.io/badge/Curriculum%20Progress-2%20%2F%2018%20Modules-007acc?style=for-the-badge&logo=github)](https://github.com/usaihack/My-Notes)
-[![Study Notes](https://img.shields.io/badge/Total%20Study%20Notes-33%20Detailed%20Logs-2ea44f?style=for-the-badge)](https://github.com/usaihack/My-Notes)
+[![Curriculum Progress](https://img.shields.io/badge/Curriculum%20Progress-2%20%2F%2018%20Modules-007acc?style=for-the-badge&logo=github)](https://github.com/usmansaid/My-Notes)
+[![Study Notes](https://img.shields.io/badge/Total%20Study%20Notes-33%20Detailed%20Logs-2ea44f?style=for-the-badge)](https://github.com/usmansaid/My-Notes)
 [![Lab Assignments](https://img.shields.io/badge/Lab%20Assignments-Level%201%20--%20Level%205-ff69b4?style=for-the-badge)](ASSIGNMENTS/LINUX-ASSIGNMENTS/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
@@ -114,17 +114,12 @@ Explore day-by-day study logs, commands, and key concept summaries below. Click 
 | 05 | System Exploitation & Privilege Escalation | 📋 Planned |
 | 06 | Wireless & IoT Security | 📋 Planned |
 | 07 | Social Engineering & OSINT | 📋 Planned |
-| 08 | Malware Analysis & Reverse Engineering | 📋 Planned |
-| 09 | Active Directory Attacks | 📋 Planned |
-| 10 | Cloud Security (AWS / Azure / GCP) | 📋 Planned |
-| 11 | Red Teaming & APT Simulation | 📋 Planned |
-| 12 | Blue Team & Incident Response | 📋 Planned |
-| 13 | Advanced Pentesting Techniques | 📋 Planned |
-| 14 | Mobile & API Security | 📋 Planned |
-| 15 | Cryptography & Steganography | 📋 Planned |
-| 16 | Forensics & Evidence Collection | 📋 Planned |
-| 17 | Bug Bounty Methodology | 📋 Planned |
-| 18 | Final Review & Certification Prep | 📋 Planned |
+| 08 | Active Directory Attacks | 📋 Planned |
+| 09 | Cloud Security (AWS / Azure / GCP) | 📋 Planned |
+| 10 | Red Teaming & APT Simulation | 📋 Planned |
+| 11 | Advanced Pentesting Techniques | 📋 Planned |
+| 12 | Mobile & API Security | 📋 Planned |
+| 13 | Final Review & Certification Prep | 📋 Planned |
 
 </details>
 <!-- MODULES_END -->
