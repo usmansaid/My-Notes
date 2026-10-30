@@ -114,12 +114,17 @@ Explore day-by-day study logs, commands, and key concept summaries below. Click 
 | 05 | System Exploitation & Privilege Escalation | 📋 Planned |
 | 06 | Wireless & IoT Security | 📋 Planned |
 | 07 | Social Engineering & OSINT | 📋 Planned |
-| 08 | Active Directory Attacks | 📋 Planned |
-| 09 | Cloud Security (AWS / Azure / GCP) | 📋 Planned |
-| 10 | Red Teaming & APT Simulation | 📋 Planned |
-| 11 | Advanced Pentesting Techniques | 📋 Planned |
-| 12 | Mobile & API Security | 📋 Planned |
-| 13 | Final Review & Certification Prep | 📋 Planned |
+| 08 | Malware Analysis & Reverse Engineering | 📋 Planned |
+| 09 | Active Directory Attacks | 📋 Planned |
+| 10 | Cloud Security (AWS / Azure / GCP) | 📋 Planned |
+| 11 | Red Teaming & APT Simulation | 📋 Planned |
+| 12 | Blue Team & Incident Response | 📋 Planned |
+| 13 | Advanced Pentesting Techniques | 📋 Planned |
+| 14 | Mobile & API Security | 📋 Planned |
+| 15 | Cryptography & Steganography | 📋 Planned |
+| 16 | Forensics & Evidence Collection | 📋 Planned |
+| 17 | Bug Bounty Methodology | 📋 Planned |
+| 18 | Final Review & Certification Prep | 📋 Planned |
 
 </details>
 <!-- MODULES_END -->
